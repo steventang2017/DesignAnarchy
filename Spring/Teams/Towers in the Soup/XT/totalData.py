@@ -8,9 +8,9 @@ totalResidentialVacancy = 56400.00
 totalCommercialVacancy = 102000000.00
 totalManufacturingVacancy = 5000.00
 
-totalPropertyOperationalExpenses = 1147500.00
-totalPropertyRealEstateTaxes = 425000.00
-totalPropertyReplacementReserve = 225000.00
+totalPropertyOperationalExpenses = 1147500.00  #need to comfirm with group C D E
+totalPropertyRealEstateTaxes = 425000.00       #need to comfirm with group C D E
+totalPropertyReplacementReserve = 225000.00    #need to comfirm with group C D E
 
 residentialDepreciation =  1545454.55
 commercialDepreciation =  1089743.59

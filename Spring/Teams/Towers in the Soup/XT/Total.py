@@ -1,5 +1,6 @@
 import totalData
 import totalData as TD
+#import form C,D,E#
 
 def total(a,b,c):
     return a+b+c
