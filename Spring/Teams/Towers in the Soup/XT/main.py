@@ -4,11 +4,11 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-import proforma_xt
+import ProformaSetup
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    proforma_xt
+    ProformaSetup
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
