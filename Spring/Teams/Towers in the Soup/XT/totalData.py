@@ -1,5 +1,5 @@
 
-
+#Tower in the soup, total data
 totalResidentialIncome = 1128000.00
 totalCommercialIncome = 1020000000.00
 totalManufacturingIncome = 100000.00
