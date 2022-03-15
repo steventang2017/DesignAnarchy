@@ -45,26 +45,7 @@ def totalDepreciationCost(totalResidentialDepreciation,totalCommercialDepreciati
 
 
 
-dict_GrossIncom = {'totalResidentialIncome':TD.totalResidentialIncome,
-                 'totalCommercialIncome':TD.totalCommercialIncome,
-                 'totalManufacruingIncome':TD.totalManufacturingIncome}
 
-dict_Vacancy = {'totalResidentialVacancy':TD.totalResidentialVacancy,
-                 'totalCommercialVacancy':TD.totalCommercialVacancy,
-                 'totalManufacruingVacancy':TD.totalManufacturingVacancy}
-
-dict_Expenses = {'totalPropertyOperationalExpenses':TD.totalPropertyOperationalExpenses,
-                 'totalPropertyRealEstateTaxes':TD.totalPropertyRealEstateTaxes,
-                 'totalPropertyReplacementReserve':TD.totalPropertyReplacementReserve}
-
-dict_Depreciation = {'residentialDepreciation':TD.residentialDepreciation,
-                 'commercialDepreciation':TD.commercialDepreciation,
-                 'manufacturingDepreciation':TD.manufacturingDepreciation}
-
-print(dict_GrossIncom)
-print(dict_Vacancy)
-print(dict_Expenses)
-print(dict_Depreciation)
 
 
 
